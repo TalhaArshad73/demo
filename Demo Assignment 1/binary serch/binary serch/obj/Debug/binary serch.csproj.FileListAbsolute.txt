@@ -1,0 +1,6 @@
+c:\users\talha randhawa\documents\visual studio 2013\Projects\binary serch\binary serch\bin\Debug\binary serch.exe.config
+c:\users\talha randhawa\documents\visual studio 2013\Projects\binary serch\binary serch\obj\Debug\binary serch.csprojResolveAssemblyReference.cache
+c:\users\talha randhawa\documents\visual studio 2013\Projects\binary serch\binary serch\bin\Debug\binary serch.exe
+c:\users\talha randhawa\documents\visual studio 2013\Projects\binary serch\binary serch\bin\Debug\binary serch.pdb
+c:\users\talha randhawa\documents\visual studio 2013\Projects\binary serch\binary serch\obj\Debug\binary serch.exe
+c:\users\talha randhawa\documents\visual studio 2013\Projects\binary serch\binary serch\obj\Debug\binary serch.pdb
